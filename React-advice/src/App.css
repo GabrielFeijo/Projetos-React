@@ -1,0 +1,73 @@
+
+.app {
+  height: 100vh;
+  background-color: #202632;
+
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.box {
+  position: relative;
+  width: 400px;
+  padding:2rem;
+  margin: 2rem;
+  background-color: #313A49;
+  border-radius: 8px;
+  color: #CCE3E9;
+  text-align: center;
+}
+.box p{
+  color: #54F7AD;
+  font-weight:600;
+  text-transform: uppercase;
+  letter-spacing: 7px;
+}
+
+.box button {
+  border: 0;
+  outline: 0;
+  width: 55px;
+  height: 55px;
+  background-color: #54F7AD;
+  border-radius:50% ;
+  position: absolute;
+  bottom: -30px;
+  left: 50%;
+  transform: translate(-50%,0);
+  cursor: pointer;
+  transition: .3s;
+}
+
+.box button:hover{
+  opacity: .8;
+}
+
+.box button svg{
+  font-size: 1.7em;
+  fill: #212432;
+}
+
+.advice{
+  margin: 1rem 0;
+}
+
+.border{
+  border-top: 1px solid #505B6D;
+  width: 45%;
+  display: block;
+}
+
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: .5rem;
+  margin-bottom: .5rem;
+}
+
+.flex  svg{
+  font-size: 2em;
+}

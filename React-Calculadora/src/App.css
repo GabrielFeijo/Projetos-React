@@ -1,0 +1,66 @@
+.wrap {
+  height: 100vh;
+  display: flex;
+}
+
+.app {
+  max-width: 400px;
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+
+.flex-theme {
+  display: flex;
+  align-items: flex-end;
+  gap: 1rem;
+}
+
+.flex-theme p {
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.flex-wrap {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .1rem;
+
+}
+
+.flex-slider {
+  font-size: 0.8em;
+  font-weight: 600;
+  width: 42px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.box-output {
+  background-color: #181F32;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  text-align: end;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.numbers {
+  border-radius: 8px;
+  background-color: #252D44;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-direction: wrap;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
