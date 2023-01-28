@@ -1,0 +1,16 @@
+.ball {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #262F38;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #737C86;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.ball svg {
+    fill: #FF7A1B;
+}

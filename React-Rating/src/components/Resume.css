@@ -1,0 +1,32 @@
+.wrap {
+    position: relative;
+    width: 400px;
+    padding:1.5rem;
+    margin: 1rem;
+    background-color: #1F2630;
+    color: #fff;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.image{
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+.number {
+    color: #FF7A1B;
+    font-weight: 500;
+    width: 65%;
+    margin:1.2em auto;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #262F38;
+}
+
+.description {
+    margin-top: .7em;
+    color: #7F858F;
+    font-weight: 500;
+}
