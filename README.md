@@ -6,16 +6,16 @@
 
 1. React-Calculadora
    * Uma calculadora com React simples, mas muito divertida.
-   * ![React-Calculadora](https://media.discordapp.net/attachments/786006828466044931/1068773136952209439/calculadora.png) 
+   * ![React-Calculadora](https://i.imgur.com/MpQQ8a9.png) 
 2. React-Rating
    * Componente de classificação interativa.
-   * ![React-Rating](https://media.discordapp.net/attachments/786006828466044931/1068773137698795540/rating.png) 
+   * ![React-Rating](https://i.imgur.com/nnkqCTU.png) 
 3. React-advice
    * Aplicativo gerador de conselhos usando a Advice Slip API.
-   * ![React-advice](https://media.discordapp.net/attachments/786006828466044931/1068773137178689596/advice.png) 
+   * ![React-advice](https://i.imgur.com/hlbLHBO.png) 
 4. GitHub-Finder
    * A funcionalidade principal é buscar por usuários do GitHub e trazer os dados via resposta da API.
-   * ![github-finder](https://media.discordapp.net/attachments/786006828466044931/1068773137392607263/finder.png) 
+   * ![github-finder](https://i.imgur.com/UwuLuTi.png) 
 
 
 
